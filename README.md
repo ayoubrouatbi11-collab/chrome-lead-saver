@@ -4,7 +4,7 @@ This is my first Chrome extension project.
 
 I built it to practice JavaScript and learn how Chrome extensions work. The extension lets you save URLs that you want to keep for later. You can either enter a URL manually or save the URL of the current browser tab.
 
-## What it does
+# What it does
 
 * Save a URL manually
 * Save the current browser tab
